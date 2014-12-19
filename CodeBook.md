@@ -18,25 +18,25 @@ Notes:
 
 
 ## Column description
-- **activity**
+- **activity**                                                         
 This column conatins the activity name with a descriptive name. The names of the activities have been extracted from the activity_labels.txt
 	
-- **subjectid**
+- **subjectid**                                                    
 This column contains the subjectid
 	
-- **tBodyAccelerationMeanX**
+- **tBodyAccelerationMeanX**                             
 Average of the mean Body acceleration signal for X in "g" units
 	
-- **tBodyAccelerationMeanY**      
+- **tBodyAccelerationMeanY**                                     
 Average of the mean Body acceleration signal for Y in "g" units
 	
-- **tBodyAccelerationMeanZ**
+- **tBodyAccelerationMeanZ**                                          
 Average of the mean Body acceleration signal for Z in "g" units
 	
-- **tBodyAccelerationStdX**
+- **tBodyAccelerationStdX**                                      
 Average of the std Body acceleration signal for X in "g" units 
 	
-- **tBodyAccelerationStdY**
+- **tBodyAccelerationStdY**                                        
 Average of the std Body acceleration signal for Y in "g" units
 	
 - **tBodyAccelerationStdZ**
