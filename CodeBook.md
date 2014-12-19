@@ -24,239 +24,239 @@ This column conatins the activity name with a descriptive name. The names of the
 - subjectid
 This column contains the subjectid
 	
--tBodyAccelerationMeanX
+- tBodyAccelerationMeanX
 Average of the mean Body acceleration signal for X in "g" units
 	
 - tBodyAccelerationMeanY      
 Average of the mean Body acceleration signal for Y in "g" units
 	
--tBodyAccelerationMeanZ
+- tBodyAccelerationMeanZ
 Average of the mean Body acceleration signal for Z in "g" units
 	
--tBodyAccelerationStdX
+- tBodyAccelerationStdX
 Average of the std Body acceleration signal for X in "g" units 
 	
 -tBodyAccelerationStdY
 Average of the std Body acceleration signal for Y in "g" units
 	
--tBodyAccelerationStdZ
+- tBodyAccelerationStdZ
 Average of the std Body acceleration signal for Z in "g" units 
 	
--tGravityAccelerationMeanX
+- tGravityAccelerationMeanX
 Average of the mean Gravity acceleration signal for X in "g" units
 	
--tGravityAccelerationMeanY
+- tGravityAccelerationMeanY
 Average of the mean Gravity acceleration signal for Y in "g" units
 	
--tGravityAccelerationMeanZ
+- tGravityAccelerationMeanZ
 Average of the mean Gravity acceleration signal for Z in "g" units
 	
--tGravityAccelerationStdX
+- tGravityAccelerationStdX
 Average of the std Gravity acceleration signal for X in "g" units 
 	
--tGravityAccelerationStdY
+- tGravityAccelerationStdY
 Average of the std Gravity acceleration signal for Y in "g" units
 	
--tGravityAccelerationStdZ
+- tGravityAccelerationStdZ
 Average of the std Gravity acceleration signal for Z in "g" units 
 	
--tBodyAccelerationJerkMeanX
+- tBodyAccelerationJerkMeanX
 Average of the mean Jerk Body Acceleration signal for X in m/s^3 units (note: Jerk = rate of change of acceleration -> m/s^2/s)
 	
--tBodyAccelerationJerkMeanY
+- tBodyAccelerationJerkMeanY
 Average of the mean Jerk Body Acceleration signal for Y in m/s^3 units 
 	
--tBodyAccelerationJerkMeanZ
+- tBodyAccelerationJerkMeanZ
 Average of the mean Jerk Body Acceleration signal for Z in m/s^3 units
 	
--tBodyAccelerationJerkStdX
+- tBodyAccelerationJerkStdX
 Average of the std Jerk Body Acceleration signal for X in m/s^3 units
 	
--tBodyAccelerationJerkStdY
+- tBodyAccelerationJerkStdY
 Average of the std Jerk Body Acceleration signal for Y in m/s^3 units
 	
--tBodyAccelerationJerkStdZ
+- tBodyAccelerationJerkStdZ
 Average of the std Jerk Body Acceleration signal for Z in m/s^3 units 
 	
--tBodyGyroMeanX
+- tBodyGyroMeanX
 Average of mean gyroscope angular velocity for X in radians/second units
 	
--tBodyGyroMeanY 
+- tBodyGyroMeanY 
 Average of mean gyroscope angular velocity for Y in radians/second units
 	
--tBodyGyroMeanZ
+- tBodyGyroMeanZ
 Average of mean gyroscope angular velocity for Z in radians/second units 
 	
--tBodyGyroStdX
+- tBodyGyroStdX
 Average of std gyroscope angular velocity for X in radians/second units 
 	
--tBodyGyroStdY
+- tBodyGyroStdY
 Average of std gyroscope angular velocity for Y in radians/second units 
 	
--tBodyGyroStdZ
+- tBodyGyroStdZ
 Average of std gyroscope angular velocity for Z in radians/second units 
 	
--tBodyGyroJerkMeanX
+- tBodyGyroJerkMeanX
 Average of mean gyroscope angular velocity Jerk for X in radians/s^2 units (note: jerk = rate of variation radians/s/s)
 	
--tBodyGyroJerkMeanY
+- tBodyGyroJerkMeanY
 Average of mean gyroscope angular velocity Jerk for Y in rradians/s^2 units
 	
--tBodyGyroJerkMeanZ                       
+- tBodyGyroJerkMeanZ                       
 Average of mean gyroscope angular velocity Jerk for Z in radians/s^2 units
 	
--tBodyGyroJerkStdX
+- tBodyGyroJerkStdX
 Average of std gyroscope angular velocity Jerk for X in radians/s^2 units 
 	
--tBodyGyroJerkStdY                        
+- tBodyGyroJerkStdY                        
 Average of std gyroscope angular velocity Jerk for Y in radians/s^2 units
 	
--tBodyGyroJerkStdZ                        
+- tBodyGyroJerkStdZ                        
 Average of std gyroscope angular velocity Jerk for Z in radians/s^2 units
 	
--tBodyAccelerationMagMean 
+- tBodyAccelerationMagMean 
 Average of the mean Body Acceleration Magnitude in "g" units 
 	 
--tBodyAccelerationMagStd  
+- tBodyAccelerationMagStd  
 Average of the std Body Acceleration Magnitude in "g" units 
 	 
--tGravityAccelerationMagMean
+- tGravityAccelerationMagMean
 Average of the mean Gravity Acceleration Magnitude in "g" units
 	 
--tGravityAccelerationMagStd
+- tGravityAccelerationMagStd
 Average of the std Gravity Acceleration Magnitude  in "g" units
 	 
--tBodyAccelerationJerkMagMean
+- tBodyAccelerationJerkMagMean
 Average of the mean Body Acceleration Jerk Magnitude in m/s^3 units    
 	 
--tBodyAccelerationJerkMagStd
+- tBodyAccelerationJerkMagStd
 Average of the std Body Acceleration Jerk Magnitude  in m/s^3 units
 	 
--tBodyGyroMagMean
+- tBodyGyroMagMean
 Average of mean gyroscope angular velocity magnitude radians/second units 
 	 
--tBodyGyroMagStd
+- tBodyGyroMagStd
 Average of std gyroscope angular velocity magnitude radians/second units  
 	 
--tBodyGyroJerkMagMean
+- tBodyGyroJerkMagMean
 Average of mean gyroscope angular velocity magnitude radians/second units 
 	 
--tBodyGyroJerkMagStd
+- tBodyGyroJerkMagStd
 Average of std gyroscope angular velocity magnitude radians/second units 
 	 
--fBodyAccelerationMeanX 
+- fBodyAccelerationMeanX 
 Average of mean Body acceleration FFT signal for X 
 	 
--fBodyAccelerationMeanY
+- fBodyAccelerationMeanY
 Average of mean Body acceleration FFT signal for Y 
 	 
--fBodyAccelerationMeanZ
+- fBodyAccelerationMeanZ
 Average of mean Body acceleration FFT signal for Z 
 	 
--fBodyAccelerationStdX
+- fBodyAccelerationStdX
 Average of std Body acceleration FFT signal for X 
 	 
--fBodyAccelerationStdY
+- fBodyAccelerationStdY
 Average of std Body acceleration FFT signal for Y
 	 
--fBodyAccelerationStdZ
+- fBodyAccelerationStdZ
 Average of std Body acceleration FFT signal for Z
 	 
--fBodyAccelerationMeanFrequencyX  
+- fBodyAccelerationMeanFrequencyX  
 Average of Body acceleration Mean Frequency for X (obtained from FFT signal)
 	 
--fBodyAccelerationMeanFrequencyY
+- fBodyAccelerationMeanFrequencyY
 Average of Body acceleration Mean Frequency for Y (obtained from FFT signal)  
 	 
--fBodyAccelerationMeanFrequencyZ
+- fBodyAccelerationMeanFrequencyZ
 Average of Body acceleration Mean Frequency for Z (obtained from FFT signal)  
 	 
--fBodyAccelerationJerkMeanX
+- fBodyAccelerationJerkMeanX
 Average of std Jerk Body acceleration FFT signal for X 
 	 
--fBodyAccelerationJerkMeanY
+- fBodyAccelerationJerkMeanY
 Average of std Jerk Body acceleration FFT signal for Y 
 	 
--fBodyAccelerationJerkMeanZ
+- fBodyAccelerationJerkMeanZ
 Average of std Jerk Body acceleration FFT signal for Z
 	 
--fBodyAccelerationJerkStdX
+- fBodyAccelerationJerkStdX
 Average of std Jerk Body acceleration FFT signal for X
 	 
--fBodyAccelerationJerkStdY
+- fBodyAccelerationJerkStdY
 Average of std Jerk Body acceleration FFT signal for Y 
 	 
--fBodyAccelerationJerkStdZ
+- fBodyAccelerationJerkStdZ
 Average of std Jerk Body acceleration FFT signal for Z
 	 
--fBodyAccelerationJerkMeanFrequencyX
+- fBodyAccelerationJerkMeanFrequencyX
 Average of Jerk Body acceleration Mean Frequency for X (obtained from FFT signal)
 	 
--fBodyAccelerationJerkMeanFrequencyY
+- fBodyAccelerationJerkMeanFrequencyY
 Average of Jerk Body acceleration Mean Frequency for Y (obtained from FFT signal)
 	 
--fBodyAccelerationJerkMeanFrequencyZ
+- fBodyAccelerationJerkMeanFrequencyZ
 Average of Jerk Body acceleration Mean Frequency for Z (obtained from FFT signal) 
 	 
--fBodyGyroMeanX 
+- fBodyGyroMeanX 
 Average of mean gyroscope angular velocity FFT signal for X
 	 
--fBodyGyroMeanY 
+- fBodyGyroMeanY 
 Average of mean gyroscope angular velocity FFT signal for Y 
 	 
--fBodyGyroMeanZ
+- fBodyGyroMeanZ
 Average of mean gyroscope angular velocity FFT signal for Z
 	 
--fBodyGyroStdX
+- fBodyGyroStdX
 Average of std gyroscope angular velocity FFT signal for X
 	 
--fBodyGyroStdY   
+- fBodyGyroStdY   
 Average of std gyroscope angular velocity FFT signal for Y 
 	 
--fBodyGyroStdZ
+- fBodyGyroStdZ
 Average of std gyroscope angular velocity FFT signal for Z
 	 
--fBodyGyroMeanFrequencyX
+- fBodyGyroMeanFrequencyX
 Average of gyroscope angular velocity Mean Frequency for X (obtained from FFT signal)
 	 
--fBodyGyroMeanFrequencyY 
+- fBodyGyroMeanFrequencyY 
 Average of gyroscope angular velocity Mean Frequency for Y (obtained from FFT signal) 
 	 
--fBodyGyroMeanFrequencyZ
+- fBodyGyroMeanFrequencyZ
 Average of gyroscope angular velocity Mean Frequency for Z (obtained from FFT signal) 
 	 
--fBodyAccelerationMagMean
+- fBodyAccelerationMagMean
 Average of the mean Body Acceleration Magnitude FFT signal 
 	 
--fBodyAccelerationMagStd
+- fBodyAccelerationMagStd
 Average of the std Body Acceleration Magnitude FFT signal
 	 
--fBodyAccelerationMagMeanFrequency
+- fBodyAccelerationMagMeanFrequency
 Average of the Body Acceleration mean frequency Magnitude FFT signal 
 	 
--fBodyBodyAccelerationJerkMagMean
+- fBodyBodyAccelerationJerkMagMean
 Average of the mean Jerk Body Acceleration Magnitude FFT signal      
 	 
--fBodyAccelerationJerkMagStd
+- fBodyAccelerationJerkMagStd
 Average of the std Jerk Body Acceleration Magnitude FFT signal       
 	 
--fBodyAccelerationJerkMagMeanFrequency
+- fBodyAccelerationJerkMagMeanFrequency
 Average of the Jerk Body Acceleration mean frequency Magnitude FFT signal 
 	 
--fBodyGyroMagMean
+- fBodyGyroMagMean
 Average of mean gyroscope angular velocity magnitude FFT signal 
 	 
--fBodyGyroMagStd
+- fBodyGyroMagStd
 Average of std gyroscope angular velocity magnitude FFT signal 
 	 
--fBodyGyroMagMeanFrequency
+- fBodyGyroMagMeanFrequency
 Average of mean gyroscope angular velocity frequency    
 	 
--fBodyGyroJerkMagMean
+- fBodyGyroJerkMagMean
 Average of mean Jerk gyroscope angular velocity magnitude FFT signal 
 	 
--fBodyGyroJerkMagStd
+- fBodyGyroJerkMagStd
 Average of std Jerk gyroscope angular velocity magnitude FFT signal 
 	 
--fBodyBodyGyroJerkMagMeanFrequency
+- fBodyBodyGyroJerkMagMeanFrequency
 Average of mean Jerk gyroscope angular velocity frequency 
