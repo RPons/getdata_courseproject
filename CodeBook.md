@@ -36,7 +36,7 @@ Average of the mean Body acceleration signal for Z in "g" units
 - tBodyAccelerationStdX
 Average of the std Body acceleration signal for X in "g" units 
 	
--tBodyAccelerationStdY
+- tBodyAccelerationStdY
 Average of the std Body acceleration signal for Y in "g" units
 	
 - tBodyAccelerationStdZ
