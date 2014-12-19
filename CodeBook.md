@@ -14,6 +14,9 @@ Notes:
 - 'Jerk' signals are obtain deriving acceleration and angular velocity, giving the rate of change of each measurement. The time derivative of acceleration, often called a 'jerk', plays an important role in vibration control, ride comfort evaluation and so on.
 - The units of signals in the frequency domain are quantity squared rms, where the quantity is the unit in the time-domain signal.
 
+
+
+
 ## Column description
 - activity
 This column conatins the activity name with a descriptive name. The names of the activities have been extracted from the activity_labels.txt
@@ -76,7 +79,7 @@ Average of the std Jerk Body Acceleration signal for Y in m/s^3 units
 Average of the std Jerk Body Acceleration signal for Z in m/s^3 units 
 	
 -tBodyGyroMeanX
-Average of mean gyroscope angular velocity for X in radians/second units  
+Average of mean gyroscope angular velocity for X in radians/second units
 	
 -tBodyGyroMeanY 
 Average of mean gyroscope angular velocity for Y in radians/second units
@@ -96,7 +99,7 @@ Average of std gyroscope angular velocity for Z in radians/second units
 -tBodyGyroJerkMeanX
 Average of mean gyroscope angular velocity Jerk for X in radians/s^2 units (note: jerk = rate of variation radians/s/s)
 	
--tBodyGyroJerkMeanY                       
+-tBodyGyroJerkMeanY
 Average of mean gyroscope angular velocity Jerk for Y in rradians/s^2 units
 	
 -tBodyGyroJerkMeanZ                       
@@ -204,13 +207,13 @@ Average of mean gyroscope angular velocity FFT signal for Y
 -fBodyGyroMeanZ
 Average of mean gyroscope angular velocity FFT signal for Z
 	 
--fBodyGyroStdX                            
+-fBodyGyroStdX
 Average of std gyroscope angular velocity FFT signal for X
 	 
 -fBodyGyroStdY   
 Average of std gyroscope angular velocity FFT signal for Y 
 	 
--fBodyGyroStdZ                            
+-fBodyGyroStdZ
 Average of std gyroscope angular velocity FFT signal for Z
 	 
 -fBodyGyroMeanFrequencyX
